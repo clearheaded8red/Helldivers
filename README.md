@@ -203,4 +203,4 @@ This repository serves as the official landing page for HELLDIVERS. The software
 **Get the most recent version of HELLDIVERS today!**
 
 ---
-**Last updated:** 2026-11-06 22:28:42 UTC
+**Last updated:** 2026-11-07 02:27:18 UTC
